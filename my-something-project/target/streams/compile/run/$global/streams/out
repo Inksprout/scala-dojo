@@ -1,0 +1,10 @@
+[0m[[0minfo[0m] [0mRunning com.redbubble.pricer.App /Users/candygoodison/Documents/scala-dojo/my-something-project/src/test/resources/cart-4560.json /Users/candygoodison/Documents/scala-dojo/my-something-project/src/main/resources/base-prices.json[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/candygoodison/Documents/scala-dojo/my-something-project/target/scala-2.12/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/candygoodison/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.3.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-1 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-1 exited.[0m
+[0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
+[0m[[0mdebug[0m] [0mSandboxed run complete..[0m
+[0m[[0mdebug[0m] [0mExited with code 0[0m
